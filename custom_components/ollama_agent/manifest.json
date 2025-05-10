@@ -1,0 +1,12 @@
+{
+  "domain": "ollama_agent",
+  "name": "Ollama agent",
+  "codeowners": [
+    "@AndrewSteel"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/AndrewSteel/ollama_agent",
+  "iot_class": "local_polling",
+  "issue_tracker": "https://github.com/AndrewSteel/ollama_agent/issues",
+  "version": "0.1.0"
+}
